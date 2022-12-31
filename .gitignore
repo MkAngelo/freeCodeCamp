@@ -1,0 +1,4 @@
+*.out
+main.dSYM/
+main
+.vscode/
